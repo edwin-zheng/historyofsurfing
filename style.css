@@ -1,0 +1,34 @@
+body {
+  background-image: url("https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIaVFtkaxWRk/v1/1000x-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Sofia';
+  font-size: 18px;
+  color: darkgoldenrod;
+  padding: 1em 2em;
+}
+
+.profiles img {
+  width: 200px;
+  height: auto;
+}
+
+.profiles div {
+  float: left;
+}
+
+h1, h2 {
+  font-family: 'Akronim';
+  color: red;
+}
+
+.caption-text {
+  position: relative;
+  left: 50%;
+  top: 3em;
+}
+
+.profiles {
+  width: fit-content;
+}
+
